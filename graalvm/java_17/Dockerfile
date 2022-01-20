@@ -1,4 +1,4 @@
-# Copyright (c) 2021 CodeTheDev
+# Copyright (c) 2022 CodeTheDev
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
