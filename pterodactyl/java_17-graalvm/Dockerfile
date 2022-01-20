@@ -18,7 +18,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-FROM		codethedev/containers/graalvm:java_17
+FROM		ghcr.io/codethedev/graalvm:java_17
 
 LABEL		author="CodeTheDev" maintainer="code@codeslab.ca"
 
