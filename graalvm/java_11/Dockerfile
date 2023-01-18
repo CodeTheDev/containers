@@ -26,7 +26,7 @@ LABEL           org.opencontainers.image.source="https://github.com/CodeTheDev/c
 LABEL           org.opencontainers.image.licenses=MIT
 
 ARG		DEBIAN_FRONTEND=noninteractive
-ARG		GRAAL_VERSION=22.0.0.2
+ARG		GRAAL_VERSION=22.3.0
 ARG		JAVA_VERSION=11
 ARG		DOWNLOAD_URL=https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-${GRAAL_VERSION}/graalvm-ce-java${JAVA_VERSION}-linux-amd64-${GRAAL_VERSION}.tar.gz
 
